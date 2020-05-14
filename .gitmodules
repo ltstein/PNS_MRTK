@@ -1,0 +1,4 @@
+[submodule "MixedRealityToolkit-Unity"]
+	path = MixedRealityToolkit-Unity
+	url = https://github.com/ltstein/MixedRealityToolkit-Unity.git
+	branch = mrtk_development
