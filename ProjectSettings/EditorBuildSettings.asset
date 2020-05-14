@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/PNS_SteamVRDriver_MRTK_HandInteractionExamples.unity
+    guid: 43b718c69e4b43d4ebd87e87304b689c
   m_configObjects: {}
